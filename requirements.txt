@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+langchain
+transformers
+torch
+python-dotenv

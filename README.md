@@ -1,10 +1,10 @@
-This the News Headline Generator Application, a shot application where it get some news from api and generate a fake news headline using LLM and compare it to it. This is just a fun project.
+This the News Headline Generator Application, a shot application where it get some news from api and generate a fake news headline using LLM and compare it to (The real one). This is just a fun project.
 
 Here is the subtasks:
 
 1. Set Up the Environment:
     - Install necessary Python libraries (transformers, torch, requests, etc.).
-    - Set up the API key for any pre-trained language model you plan to use (e.g., OpenAI GPT-3.5).
+    - Set up the API key for any pre-trained language model you plan to use (e.g., OpenAI GPT-3.5, Google Gemini Pro).
 
 2. Fetch Current News Headlines:
     - Use a news API (e.g., NewsAPI, Bing News Search API) to fetch current news headlines.
