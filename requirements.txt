@@ -4,3 +4,4 @@ langchain
 transformers
 torch
 python-dotenv
+google-generativeai
